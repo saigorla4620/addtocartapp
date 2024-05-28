@@ -16,7 +16,7 @@ function App() {
     <div className='home'>
     <BrowserRouter>
     <Routes>
-      <Route path='/' element={<Fakestore/>}/>
+      <Route path='/addtocartapp' element={<Fakestore/>}/>
       <Route path='/cartitems' element={<Cartitems/>}/>
       
     </Routes>
