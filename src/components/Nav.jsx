@@ -13,7 +13,7 @@ const Nav = () => {
             
             <div className='options '>
                 <ul className='d-flex' type='none'>
-                   <Link to="/"><li className='btn btn-link text-decoration-none link-dark'>Home</li></Link> 
+                   <Link to="/addtocartapp"><li className='btn btn-link text-decoration-none link-dark'>Home</li></Link> 
                     <li><a href="#" className='btn btn-link text-decoration-none link-dark'>Electronics</a></li>
                     <li><a href="#" className='btn btn-link text-decoration-none link-dark'>Jewelery</a></li>
                     <li><a href="#" className='btn btn-link text-decoration-none link-dark'>Men`s Fashion</a></li>
