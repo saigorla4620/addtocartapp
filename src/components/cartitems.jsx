@@ -69,7 +69,7 @@ return (
                     <div>
                         <div className="cart-empty mb-2"><span className="bi bi-cart-x"></span></div>
                         <h4 className="text mt-2">Your Cart is Empty <span className="bi bi-emoji-frown"></span></h4>
-                       <Link to="/"><button className="btn btn-primary w-100 mt-2">Shop Now</button></Link> 
+                       <Link to="/addtocartapp"><button className="btn btn-primary w-100 mt-2">Shop Now</button></Link> 
                     </div>
                 </div>
             )
